@@ -1,6 +1,6 @@
 # pyaml: Place YAML (in concept phase)
 ## motto
-you can be geospatial without longitude and latitude
+You can be geospatial without longitude and latitude.
 
 ## eample
 ```yaml
